@@ -15,7 +15,7 @@
 
 - Manually:
 
-  Download the [latest release](https://github.com/WhiteMemory99/intellij-python-inlay-params/releases/latest) and
+  Download the [latest release](https://github.com/djimboy/Intellij-Python-Inlay-Params/releases/latest) and
   install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
