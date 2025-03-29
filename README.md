@@ -8,10 +8,10 @@
 
 ## Quick Installation
 
-- Using IDE built-in plugin system:
+~~- Using IDE built-in plugin system:~~
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> >   
-  <kbd>Search for "Python Inlay Params"</kbd> > <kbd>Install Plugin</kbd>
+  ~~Settings/Preferences -> Plugins -> Marketplace ->    
+  Search for "Python Inlay Params" -> Install Plugin~~
 
 - Manually:
 
